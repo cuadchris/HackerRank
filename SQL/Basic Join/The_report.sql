@@ -10,3 +10,5 @@ from students
     join grades on marks between min_mark and max_mark
 order by grade desc,
     name
+
+-- Nice little medium difficulty challenge.
