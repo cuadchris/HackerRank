@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/japanese-cities-attributes/problem
+--https://www.hackerrank.com/challenges/japanese-cities-attributes/problem
 
 SELECT *
 FROM CITY

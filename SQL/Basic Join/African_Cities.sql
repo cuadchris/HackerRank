@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/african-cities/problem
+--https://www.hackerrank.com/challenges/african-cities/problem
 
 select city.name
 from city

@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/contest-leaderboard/problem
+--https://www.hackerrank.com/challenges/contest-leaderboard/problem
 
 /*
  hackers -> hacker_id, name

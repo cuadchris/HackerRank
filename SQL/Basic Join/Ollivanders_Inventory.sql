@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/harry-potter-and-wands/problem
+--https://www.hackerrank.com/challenges/harry-potter-and-wands/problem
 
 /*
 WANDS -> ID, CODE, COINS_NEEDED, POWER

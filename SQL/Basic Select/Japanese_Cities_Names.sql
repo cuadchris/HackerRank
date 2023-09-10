@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/japanese-cities-name/problem
+--https://www.hackerrank.com/challenges/japanese-cities-name/problem
 
 SELECT NAME
 FROM CITY
